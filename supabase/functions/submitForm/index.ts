@@ -34,6 +34,7 @@ serve(async (req) => {
 
     const glideJson = {
       foo: foo,
+      bar: bar,
     }
 
     let glideData = JSON.stringify({
