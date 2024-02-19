@@ -18,6 +18,12 @@ supabase functions new jotform-pb087
 supabase functions new jotform-pb092
 supabase functions new jotform-pb127
 
+
+supabase functions new jotform-pb236
+supabase functions new jotform-pb245
+supabase functions new jotform-pb350
+
+
 supabase functions new glide-post
 
 
